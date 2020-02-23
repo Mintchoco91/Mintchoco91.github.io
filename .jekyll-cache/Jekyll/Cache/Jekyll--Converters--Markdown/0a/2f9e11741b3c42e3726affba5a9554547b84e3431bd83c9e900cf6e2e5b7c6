@@ -1,0 +1,12 @@
+I"�<h1 id="code">Code</h1>
+
+<p>##JAVA_CODE</p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">Hello</span> <span class="n">world</span><span class="o">!</span>
+<span class="n">console</span><span class="o">.</span><span class="na">log</span><span class="o">(</span><span class="s">"이건 java문법"</span><span class="o">)</span>
+</code></pre></div></div>
+
+<p>##JAVASCRIPT_CODE</p>
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">alert</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello world</span><span class="dl">"</span><span class="p">);</span>
+</code></pre></div></div>
+:ET

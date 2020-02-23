@@ -1,0 +1,13 @@
+I"M<h2 id="java">JAVA</h2>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">Hello</span> <span class="n">world</span><span class="o">!</span>
+<span class="n">console</span><span class="o">.</span><span class="na">log</span><span class="o">(</span><span class="s">"이건 java문법"</span><span class="o">)</span>
+</code></pre></div></div>
+
+<h2 id="java-script">JAVA SCRIPT</h2>
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">alert</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello world</span><span class="dl">"</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h2 id="image">Image</h2>
+<p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="" /></p>
+:ET
