@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Sample_Page
 published: true
 ---
 
@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.^^**
 
 # [](#header-1)Header 1
 
